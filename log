@@ -1,0 +1,4 @@
+202310071422   0     1     0dell F:\YD\30M\30yinzi\30-slop = SLOPE(F:\YD\30M\30yinzi\30-den,  1.0, DEGREE)
+202310071422   0     0     0dell F:\YD\30M\30yinzi\30-aspect = ASPECT(F:\YD\30M\30yinzi\30-den)
+202310071422   0     0     0dell F:\YD\30M\30yinzi\30-qulv = CURVATURE(F:\YD\30M\30yinzi\30-den,  #)
+202310071422   0     0     0dell F:\YD\30M\30yinzi\30-qulv = CURVATURE(F:\YD\30M\30yinzi\30-den,  #)
